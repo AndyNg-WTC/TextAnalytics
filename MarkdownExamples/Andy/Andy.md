@@ -42,3 +42,16 @@ randomtext
 ## checkboxes, requires space between the square brackets 
 - [ ] One
 1. [ ] Two
+
+## Tables, you will require a min of 3 dashes to start the table, use | to seperate columns:
+
+Android | iOS | Windows
+------- | :-------:| ---:
+align left | :align middle: | align right:
+Mobile app for Android | Mobile app for iOS | App for windows
+row(2), col(1)  | row(2), col(2)
+asdasdadsadasdasddadada | asdasdadsadasdasddadada | asdsaaaaaaaaaaaasgfhfghffghgf
+
+## Links:
+
+[text for link](www.google.co.uk)
