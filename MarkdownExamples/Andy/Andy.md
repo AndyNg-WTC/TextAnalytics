@@ -67,3 +67,27 @@ Android | iOS | UI
 
 Getting started with GitHub (Youtube video):
 [![video thumbnail](https://img.youtube.com/vi/noZnOSpcjYY/maxresdefault.jpg)](https://www.youtube.com/watch?v=noZnOSpcjYY)
+
+
+## code block:
+
+inline code `echo 'Hello World!'`
+
+PHP code block:
+``` php
+function showMessage()
+{
+    echo "Hello!";
+}
+
+showMessage();
+```
+
+HTML code block: 
+``` html
+<html>
+   <body>
+      <h1>Header 1</h1>
+   </body>
+</html>
+```
