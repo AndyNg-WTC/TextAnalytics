@@ -55,3 +55,9 @@ asdasdadsadasdasddadada | asdasdadsadasdasddadada | asdsaaaaaaaaaaaasgfhfghffghg
 ## Links:
 
 [text for link](www.google.co.uk)
+
+
+## Images:
+Android | iOS | Windows
+--- | ---| ---
+![](https://cdn.vox-cdn.com/thumbor/4YrhF65YGLd8OjHv-y8D_zJH4bI=/0x0:2040x1560/1400x933/filters:focal(857x617:1183x943):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg) | ![iOS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/512px-IOS_logo.svg.png "some text") | ![](https://storage.googleapis.com/webdesignledger.pub.network/WDL/6f050e39-windows_10_logoblue.svg-copy_windows.jpg)
